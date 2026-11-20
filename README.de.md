@@ -76,6 +76,23 @@ F1 Info. Alle lassen sich in den Einstellungen ändern.
 Legen Sie `ffmpeg.exe` und `ffprobe.exe` in den Ordner `tools` neben `BowerFS.exe`, für
 Videominiaturen und Bildfolgen (sonst Suche im PATH). Sie sind nicht enthalten.
 
+## Wo was liegt
+
+| Was | Wo |
+|---|---|
+| Datenbank (Index, Tags, Protokoll, Einstellungen) | `bowerfs.db` im Datenordner |
+| Miniaturbild-Cache | `thumbs.db` im Datenordner (eine Datei, kann groß werden) |
+| Logdatei | `logs\bowerfs.log` im Datenordner |
+| Der gewählte Datenordner | `location.json` neben dem Programm oder `%APPDATA%\BowerFS` |
+| Videominiaturen und Bildfolgen | brauchen `ffmpeg.exe`, `ffprobe.exe` in `tools` neben dem Programm |
+
+## Einschränkungen
+
+- Nur Windows 10 und 11, 64 Bit. Das Programm ist nicht signiert, daher warnt SmartScreen beim ersten Start.
+- Videominiaturen und Bildfolgen brauchen FFmpeg, das nicht enthalten ist.
+- Noch nicht vorhanden: Suche nach ähnlichen Bildern, intelligente Ordner, Bewertungen, Live Photo, EXIF-Bearbeitung, Formatumwandlung, Videowerkzeuge, Android über ADB, Backups.
+- Sicherheitssoftware kann einem unbekannten Programm das Umbenennen oder Löschen verbieten; siehe „Erster Start“.
+
 ## Datenschutz
 
 BowerFS baut keine Netzwerkverbindungen auf. Ihre Dateien werden nur durch Vorgänge verändert, die
@@ -83,8 +100,7 @@ Sie bestätigen. Tags und Index liegen im gewählten Datenordner.
 
 ## Lizenz
 
-Siehe [LICENSE.txt](LICENSE.txt) und [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
-Der Quellcode liegt in einem privaten Repository.
+Proprietär, nicht Open Source; der Quellcode ist nicht veröffentlicht. Sie dürfen die unveränderte Version kostenlos herunterladen und ausführen, auch gewerblich; Kopieren, Weitergeben, Verkaufen, Dekompilieren und abgeleitete Werke bedürfen der schriftlichen Erlaubnis der Autorin. Bibliotheken von Drittanbietern behalten ihre eigenen Lizenzen: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Vollständiger Text: [LICENSE.txt](LICENSE.txt).
 
 ## Probleme und Wünsche
 

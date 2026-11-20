@@ -73,6 +73,23 @@ Ctrl+Shift+N another panel, Tab next panel, F1 about. All of them can be changed
 Put `ffmpeg.exe` and `ffprobe.exe` into the `tools` folder next to `BowerFS.exe` for video
 thumbnails and storyboards (otherwise they are looked up in PATH). They are not included.
 
+## Where things are
+
+| What | Where |
+|---|---|
+| Database (index, tags, journal, settings) | `bowerfs.db` in the data folder |
+| Thumbnail cache | `thumbs.db` in the data folder (one file, can be large) |
+| Log | `logs\bowerfs.log` in the data folder |
+| The chosen data folder | `location.json` next to the program, or `%APPDATA%\BowerFS` |
+| Video thumbnails and storyboards | needs `ffmpeg.exe`, `ffprobe.exe` in `tools` next to the program |
+
+## Limitations
+
+- Windows 10 and 11 only, 64-bit. The program is not code-signed, so SmartScreen warns on first start.
+- Video thumbnails and storyboards need FFmpeg, which is not included.
+- Not yet: similar-image search, smart folders, ratings, Live Photo, EXIF editing, format conversion, video tools, Android through ADB, backups.
+- Security software can block an unknown program from renaming or deleting files; see “First start”.
+
 ## Privacy
 
 BowerFS makes no network connections. Your files are never changed except by the operations you
@@ -80,8 +97,7 @@ confirm. Tags and the index live in the data folder you chose.
 
 ## Licence
 
-See [LICENSE.txt](LICENSE.txt) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
-The source code is in a private repository.
+Proprietary, not open source; the source code is not published. You may download and run the unmodified release for free, including for commercial work; copying, redistributing, selling, decompiling and making derivative works require the author's written permission. Third-party libraries stay under their own licences: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Full text: [LICENSE.txt](LICENSE.txt).
 
 ## Problems and wishes
 
