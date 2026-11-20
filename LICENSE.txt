@@ -1,0 +1,13 @@
+BowerFS (binary distribution)
+Copyright (c) 2026 the BowerFS authors. All rights reserved.
+
+DRAFT TERMS: the owner must confirm or replace this text before the first public release.
+
+Permission is granted to download, install and use the BowerFS program, free of charge, for
+personal and commercial purposes. You may copy the unmodified release archive. You may not
+decompile, modify or sell the program, or remove this notice.
+
+THE PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHORS ARE NOT LIABLE FOR ANY
+LOSS OF DATA OR OTHER DAMAGE ARISING FROM ITS USE. Keep backups of files you care about.
+
+The third-party components listed in THIRD_PARTY_NOTICES.md are covered by their own licences.
