@@ -1,13 +1,31 @@
-BowerFS (binary distribution)
-Copyright (c) 2026 the BowerFS authors. All rights reserved.
+BowerFS — Proprietary License
+Copyright (c) 2026 Mariia Mashura. All rights reserved.
 
-DRAFT TERMS: the owner must confirm or replace this text before the first public release.
+This program ("BowerFS"), including its design, icons, text, and documentation, is
+proprietary and confidential. It is NOT open source. The source code is not published.
 
-Permission is granted to download, install and use the BowerFS program, free of charge, for
-personal and commercial purposes. You may copy the unmodified release archive. You may not
-decompile, modify or sell the program, or remove this notice.
+PERMISSION TO USE
+You may download, install and run the unmodified release archive of BowerFS, free of charge,
+for personal and commercial purposes, on your own computers.
 
-THE PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHORS ARE NOT LIABLE FOR ANY
-LOSS OF DATA OR OTHER DAMAGE ARISING FROM ITS USE. Keep backups of files you care about.
+You may NOT copy, distribute, publish, mirror, sublicense, sell, rent, decompile, reverse
+engineer, or create derivative works from any part of this program, in whole or in part,
+without the prior written permission of the copyright holder.
 
-The third-party components listed in THIRD_PARTY_NOTICES.md are covered by their own licences.
+Access to this repository (including as a collaborator) does not grant any license
+to the contents beyond the permission to use stated above.
+
+THIRD-PARTY COMPONENTS
+Some libraries (for example Python and Qt for Python) are included under their own
+licenses and remain the property of their respective owners. See THIRD_PARTY_NOTICES.md
+for attributions and license terms. Nothing in this license grants you any rights to
+those third-party components beyond what their own licenses allow; and nothing in
+this license overrides the obligations those third-party licenses place on this
+project.
+
+NO WARRANTY
+The software is provided "AS IS", without warranty of any kind, express or implied.
+The copyright holder is not liable for any claim, damages, loss of data, or other liability
+arising from the software or its use. Keep backups of files you care about.
+
+Contact: Mariia Mashura (zuntuf@proton.me)
