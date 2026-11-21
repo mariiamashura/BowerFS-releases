@@ -30,7 +30,11 @@
 <td width="50%"><img src="screenshots/03-duplicates.png" alt="Пошук дублікатів"><br><sub><b>Дублікати</b> за вмістом, найкращу копію позначено</sub></td>
 </tr>
 <tr>
-<td><img src="screenshots/04-compare-difference.png" alt="Різниця"><br><sub><b>Порівняння</b> двох зображень: мапа різниці</sub></td>
+<td><img src="screenshots/08-compare-side-by-side.png" alt="Порівняння поруч"><br><sub><b>Порівняння поруч</b>: спільне масштабування й зсув</sub></td>
+<td><img src="screenshots/09-compare-blend.png" alt="Порівняння накладанням"><br><sub><b>Порівняння накладанням</b>: повзунок змішує два зображення</sub></td>
+</tr>
+<tr>
+<td><img src="screenshots/04-compare-difference.png" alt="Різниця"><br><sub><b>Порівняння різницею</b>: кожен змінений піксель світиться</sub></td>
 <td><img src="screenshots/05-batch-rename.png" alt="Пакетне перейменування"><br><sub><b>Пакетне перейменування</b> з живим переглядом</sub></td>
 </tr>
 <tr>

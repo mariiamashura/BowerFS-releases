@@ -30,7 +30,11 @@ A Windows file manager for large libraries of photos and video: up to four panel
 <td width="50%"><img src="screenshots/03-duplicates.png" alt="Duplicate finder"><br><sub><b>Duplicates</b> found by content, best copy marked</sub></td>
 </tr>
 <tr>
-<td><img src="screenshots/04-compare-difference.png" alt="Difference view"><br><sub><b>Compare</b> two pictures: difference map</sub></td>
+<td><img src="screenshots/08-compare-side-by-side.png" alt="Compare side by side"><br><sub><b>Compare side by side</b>: linked zoom and pan</sub></td>
+<td><img src="screenshots/09-compare-blend.png" alt="Compare blended"><br><sub><b>Compare blended</b>: a slider mixes the two pictures</sub></td>
+</tr>
+<tr>
+<td><img src="screenshots/04-compare-difference.png" alt="Difference view"><br><sub><b>Compare as a difference</b>: every changed pixel lights up</sub></td>
 <td><img src="screenshots/05-batch-rename.png" alt="Batch rename"><br><sub><b>Batch rename</b> with a live preview</sub></td>
 </tr>
 <tr>

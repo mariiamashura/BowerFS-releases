@@ -30,7 +30,11 @@ Ein Windows-Dateimanager für große Foto- und Videobibliotheken: bis zu vier Fe
 <td width="50%"><img src="screenshots/03-duplicates.png" alt="Duplikatsuche"><br><sub><b>Duplikate</b> nach Inhalt, beste Kopie markiert</sub></td>
 </tr>
 <tr>
-<td><img src="screenshots/04-compare-difference.png" alt="Differenzansicht"><br><sub><b>Vergleich</b> zweier Bilder: Differenzbild</sub></td>
+<td><img src="screenshots/08-compare-side-by-side.png" alt="Vergleich nebeneinander"><br><sub><b>Vergleich nebeneinander</b>: gemeinsames Zoomen und Verschieben</sub></td>
+<td><img src="screenshots/09-compare-blend.png" alt="Vergleich überblendet"><br><sub><b>Vergleich überblendet</b>: ein Regler mischt beide Bilder</sub></td>
+</tr>
+<tr>
+<td><img src="screenshots/04-compare-difference.png" alt="Differenzansicht"><br><sub><b>Vergleich als Differenz</b>: jeder geänderte Pixel leuchtet</sub></td>
 <td><img src="screenshots/05-batch-rename.png" alt="Stapel-Umbenennung"><br><sub><b>Stapel-Umbenennung</b> mit Live-Vorschau</sub></td>
 </tr>
 <tr>
