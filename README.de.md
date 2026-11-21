@@ -19,6 +19,8 @@ Ein Windows-Dateimanager für große Foto- und Videobibliotheken: bis zu vier Fe
 - **Drag and drop** zwischen Fenstern und zum bzw. vom Windows-Explorer.
 - **Oberfläche** auf Englisch, Deutsch und Ukrainisch, helles und dunkles Design, anpassbare Tastenkürzel.
 
+**Jede Funktion im Detail: [FEATURES.de.md](FEATURES.de.md)**
+
 **Idee:** Mariia Mashura  
 **Technische Umsetzung:** Claude (Anthropic)
 

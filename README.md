@@ -19,6 +19,8 @@ A Windows file manager for large libraries of photos and video: up to four panel
 - **Drag and drop** between panels and to or from Windows Explorer.
 - **Interface** in English, Deutsch and Українська, light and dark theme, configurable shortcuts.
 
+**Every feature in detail: [FEATURES.md](FEATURES.md)**
+
 **Idea:** Mariia Mashura  
 **Technical implementation:** Claude (Anthropic)
 
